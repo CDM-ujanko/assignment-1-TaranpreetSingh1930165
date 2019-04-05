@@ -1,6 +1,28 @@
 div {
-    background: red;
+    /*background: lightgray;*/
 }
+
 .two {
-    background: green;
+    background: rgb(125, 199, 125);
+}
+
+body {
+    background-color: rgb(119, 180, 190);
+  }
+
+.title {
+    text-align: center;
+    background-color: aliceblue
+  }
+
+div#myId.two  {
+    background: gray;
+}
+
+ul {
+    background-color: lightcyan;
+}
+
+p {
+background-blend-mode: difference;
 }
